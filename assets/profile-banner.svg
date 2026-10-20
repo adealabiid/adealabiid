@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="488" viewBox="0 0 1200 488" role="img" aria-labelledby="title desc">
+<title id="title">Ademola Alabi — WordPress Developer and Growth Systems Specialist. Hire me.</title>
+<desc id="desc">I build websites, tools and systems that help businesses grow. Lagos, Nigeria. Explore my work and get in touch.</desc>
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#dedbd2" stroke-width=".65"/></pattern></defs>
+<rect width="1200" height="488" rx="18" fill="#f6f4ed"/><rect width="1200" height="488" rx="18" fill="url(#grid)"/>
+<path d="M32 16h1136" stroke="#203833" stroke-width="3"/>
+<g font-family="DejaVu Sans,Arial,sans-serif" fill="#203833">
+<rect x="48" y="42" width="46" height="38" rx="8" fill="#203833"/><text x="57" y="67" font-size="19" fill="#f6f4ed" font-weight="700">AA</text>
+<text x="110" y="59" font-size="12" letter-spacing="2.1" font-weight="700">DESIGN. DEVELOPMENT. GROWTH.</text>
+<text x="110" y="78" font-size="12" fill="#64706a">Lagos, Nigeria · Building for the web</text>
+<text x="47" y="166" font-size="64" font-weight="700" letter-spacing="-3.5">Ademola Alabi.</text>
+<text x="49" y="215" font-size="24" font-weight="700">WordPress Developer</text>
+<text x="49" y="249" font-size="24" font-weight="700">&amp; Growth Systems Specialist</text>
+<path d="M50 267q290 -8 563 0" stroke="#9caf66" stroke-width="7" fill="none"/>
+<text x="49" y="309" font-size="18" fill="#53635b">I build websites, tools and systems</text>
+<text x="49" y="338" font-size="18" fill="#53635b">that help businesses grow.</text>
+<text x="49" y="400" font-size="12" letter-spacing="1.5" font-weight="700">WORDPRESS / PLUGINS / TECHNICAL SEO / AUTOMATION</text>
+<path d="M49 425h1102" stroke="#cfD3c8"/>
+<text x="49" y="457" font-size="13" fill="#53635b">Thinking about the business. Building for the people using it.</text>
+<text x="1151" y="457" text-anchor="end" font-size="13" font-weight="700">ademolaalabi.com ↗</text>
+</g>
+<g transform="translate(836 76) rotate(6 135 150)">
+<path d="M32 86L135 2L240 86" stroke="#738078" stroke-width="3" fill="none"/><circle cx="135" cy="2" r="5" fill="#203833"/>
+<rect x="10" y="91" width="264" height="208" rx="10" fill="#d7d8c9"/>
+<rect x="2" y="81" width="264" height="208" rx="10" fill="#203833"/>
+<rect x="13" y="92" width="242" height="186" rx="5" stroke="#738d74" fill="none"/>
+<g font-family="DejaVu Sans,Arial,sans-serif" text-anchor="middle">
+<circle cx="38" cy="118" r="4" fill="#d2ed9a"/><text x="145" y="123" font-size="10" letter-spacing="2" fill="#d2ed9a">LET'S BUILD SOMETHING</text>
+<text x="134" y="183" font-size="43" font-weight="700" letter-spacing="-2" fill="#f6f4ed">HIRE ME</text>
+<path d="M58 195q76 10 153 -1" stroke="#d2ed9a" stroke-width="3" fill="none"/>
+<text x="134" y="229" font-size="13" fill="#dce4d8">Remote roles · Selected projects</text>
+<text x="134" y="256" font-size="12" font-weight="700" fill="#d2ed9a">Let's talk ↗</text>
+</g></g>
+<path d="M756 330q55 -55 120 -14m-11 -10 13 11 -17 3" fill="none" stroke="#738078" stroke-width="2" stroke-linecap="round"/>
+</svg>
